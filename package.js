@@ -1,4 +1,5 @@
 Package.describe({
+  name: "joshowens:simple-form",
   summary: "A meteorite package that makes building dynamic two way forms easy",
   version: "0.1.8",
   git: "https://github.com/Differential/simple-form.git"
